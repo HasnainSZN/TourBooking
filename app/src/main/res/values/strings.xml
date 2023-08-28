@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tour Booking</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create account</string>
+    <string name="longText">Browse Millions of tourist location and choose the one that suits you.Travel the world without any hassle with just one tap</string>
+    <string name="headingTxt">Explore and discover the world with us</string>
+    <string name="welcome_hasnain">Welcome,Hasnain</string>
+    <string name="second_heading">Let\'s find a tour for you</string>
+    <string name="kashmir_tour">Kashmir Tour</string>
+    <string name="islamabad">Islamabad</string>
+    <string name="september_3rd">September 3rd</string>
+    <string name="group_tours">Group Tours</string>
+    <string name="destination">Destination</string>
+    <string name="arangkel">Arangkel</string>
+    <string name="description">Description</string>
+    <string name="description_naran">Exciting times ahead! Our upcoming 3-day adventure to Naran Shogran Valley promises unforgettable moments and breathtaking landscapes. Here\'s a detailed rundown of our Day-to-Day itinerary: Places to Visit during Tour: Balakot Bridge I Kewai Waterfalls I Naran Bazar I Batakundi I Lulusar Lake I Besar I Babusar Top Day One: (Journey Towards Kewai) Departure from Islamabad (6:00 AM) Breakfast at Kewai Waterfalls Explore Kewai Waterfalls Switch to Jeeps for Siri Paye Meadows Free Time at Paye Meadows Discover Shogran Valley Dinner and Overnight stay at Ahsania Hotel Paras Day Two: (Journey Towards Babusar Top) Early Morning Breakfast Visit Lulusar Lake en route Reach Babusar Top with Brief Stop at Besar Visit Aabshar during the journey Optional Rafting Point visit (Additional Activity – on Personal Expense) Evening Exploration of Naran Bazaar Dinner Night Stay at Hotel with Optional Bonfire Day Three: (Tour Conclusion) Early Morning Breakfast Optional world\'s highest zipline (Additional Activity – on Personal Expense) Departure towards Islamabad Arrive back in Islamabad Services Included during the Tour: Transportation in a Comfortable Grand Cabin Hotel Accommodation (Quad Double Sharing) Meals (3 Breakfasts 2 Dinners) Bonfire Night at hotel (Optional) Fully Guided Tour with First Aid Facility Services not Included in the Tour: Lunch Refreshments Entry Tickets, Rafting Boating Charges</string>
+    <string name="i_8_markaz_islamabad_pakistan">I-8 Markaz Islamabad,Pakistan</string>
+    <string name="contact_92_340_5054515">Contact +92 340-5054515</string>
+    <string name="september_1st">September 1st</string>
+    <string name="_12000">12000</string>
+</resources>
